@@ -65,5 +65,5 @@ Logged: DESK_DEPARTURE | Value: 0.00
 - gpiozero
 
 ## Demo Video
-<video src="asset/Demo.mp4" width="100%" controls></video>
+[![Watch the video](https://images.placeholders.dev/?width=640&height=360&text=Click%20to%20Play%20Video&bgColor=%23282c34&textColor=%2361dafb)](https://drive.google.com/file/d/1TP_Pb0A-607R76k7WZC460XgktkaaU--/view)
 
